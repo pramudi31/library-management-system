@@ -1,3 +1,5 @@
+package VersionA;
+
 public class Member {
     int memberID;
     String name;
@@ -8,7 +10,7 @@ public class Member {
     }
 
     public void display(){
-        System.out.println("Member ID: "+memberID);
+        System.out.println("VersionA.Member ID: "+memberID);
         System.out.println("Name: "+name);
 
     }
