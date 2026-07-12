@@ -49,6 +49,6 @@ public class Main {
         System.out.println("\nMember Details");
         member.display();
 
-        input.close();
+
     }
 }
