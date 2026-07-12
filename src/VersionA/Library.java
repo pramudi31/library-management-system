@@ -11,7 +11,7 @@ public class Library {
 
     public void addBook(Book book){
         books[count] = book;
-        count = count + 1;
+        count = count++;
     }
 
     public void displayBook(){
