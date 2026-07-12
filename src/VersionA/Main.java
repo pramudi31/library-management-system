@@ -46,7 +46,7 @@ public class Main {
 
         Member member = new Member(memberID, name);
 
-        System.out.println("\nMember Details");
+        System.out.println("\nMember details");
         member.display();
 
 
